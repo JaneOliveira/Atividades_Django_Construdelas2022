@@ -1,0 +1,2 @@
+# Atividades_Django_Construdelas2022
+Atividades_Django_Construdelas2022
